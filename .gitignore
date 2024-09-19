@@ -1,0 +1,8 @@
+# local env files
+.env
+.env*.local
+
+# node.js
+node_modules/
+npm-debug.log
+yarn-error.log
